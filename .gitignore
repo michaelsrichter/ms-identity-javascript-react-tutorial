@@ -101,7 +101,6 @@ dist
 
 # VS & VS Code cache
 .vs/
-.vscode/
 
 # React build folder
 build/

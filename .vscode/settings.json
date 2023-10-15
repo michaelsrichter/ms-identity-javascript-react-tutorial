@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "4-Deployment/2-deploy-static/App/api",
+    "azureFunctions.postDeployTask": "npm install (functions)",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectSubpath": "4-Deployment/2-deploy-static/App/api",
+    "azureFunctions.preDeployTask": "npm prune (functions)"
+}
